@@ -12,7 +12,7 @@ title: "01#1 - Introduktion til kurset"
 
 - 08:30 Praktisk information  
 - 09:00 Installering af Java og IntelliJ  
-- 10:00 Pause  
+- 10:00 Pause og fisk.  
 - 10:15 Første program  
 - 11:30 Opsamling  
 
