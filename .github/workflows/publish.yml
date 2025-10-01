@@ -25,7 +25,7 @@ jobs:
           python-version: '3.13'
       - run: pip install mkslides
       - run: for course in $(ls -d courses/*); do mkslides build $course --site-dir ./site/$course; done
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: ./site
       - id: deployment
